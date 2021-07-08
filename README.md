@@ -7,7 +7,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/11154712196?si=a34d088f67c34dcb)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="jellybeanist Spotify Playing" width="350" />](https://open.spotify.com/user/11154712196?si=a34d088f67c34dcb)
 
 [linkedin]: https://linkedin.com/in/burakcankarakurt
 
