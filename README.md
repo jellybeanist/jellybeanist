@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @jellybeanist
+### Hi there, I'm Burak 👋
+
 - 👀 I’m interested in Electronic Design,
 - 🌱 I’m currently learning VHDL,
 - 💞️ I’m looking to collaborate on VHDL
