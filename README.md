@@ -5,6 +5,10 @@
 - 💞️ I’m looking to collaborate on VHDL
 - 📫 How to reach me => @burakcankarakurt@gmail.com
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
 [linkedin]: https://linkedin.com/in/burakcankarakurt
 
 <!---
