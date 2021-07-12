@@ -6,10 +6,6 @@
 - 📫 How to reach me => @burakcankarakurt@gmail.com
 
 ### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="jellybeanist Spotify Playing" width="350" />](https://open.spotify.com/user/11154712196?si=a34d088f67c34dcb)
-
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11154712196&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 [linkedin]: https://linkedin.com/in/burakcankarakurt
