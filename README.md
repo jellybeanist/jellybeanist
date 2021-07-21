@@ -7,7 +7,7 @@
 
 
 ![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}) burakcankarakurt
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> burakcankarakurt
+
 
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11154712196&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
