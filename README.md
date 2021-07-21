@@ -5,8 +5,7 @@
 - 💞️ I’m looking to collaborate on VHDL
 - 📫 How to reach me => @burakcankarakurt@gmail.com
 
-
-![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}) burakcankarakurt
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> burakcankarakurt
 
 
 ### Spotify Playing 🎧
