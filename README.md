@@ -10,7 +10,7 @@
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11154712196&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-![](https://komarev.com/ghpvc/?username=jellybeanist)
+![](https://komarev.com/ghpvc/?username=jellybeanist&style=flat-square)
 
 
 <!---
