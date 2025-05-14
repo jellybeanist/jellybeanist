@@ -1,8 +1,5 @@
 ### Hi there, I'm Burak 👋
 
-- 👀 I’m interested in Electronic Design,
-- 🌱 I’m currently learning VHDL,
-- 💞️ I’m looking to collaborate on VHDL
 - 📫 How to reach me => @burakcankarakurt@gmail.com
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> burakcankarakurt
